@@ -24,7 +24,7 @@ class Picture
      * @ORM\Column(type="string", length=255)
      */
     private $picturePath;
-
+   
     /**
      * @ORM\Column(type="string", length=255)
      */
